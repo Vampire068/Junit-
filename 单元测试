@@ -1,12 +1,15 @@
 # Junit-
 对自建类的junit的单元测试，包括原始类Hello和测试类TestHello两部分代码。
+
 //原始类Hello
 package hello;
 public class Hello {	
 		    public String getMessage(){  
-	        return "Hello Junit";  
+	            return "Hello Junit";  
 		   }  
 	}
+	
+	
 //测试类TestHello
 package testhello;
   
